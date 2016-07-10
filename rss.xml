@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[St. Bosco Edits]]></title>
+        <description><![CDATA[St. Bosco Edits]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 10 Jul 2016 22:05:52 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[St. Bosco Edits]]></title>
+            <description><![CDATA[<article><h1>St. Bosco Edits</h1><p>Hi! I'm Bethany, and I get excited about grammar. As a student in a world-class editing program and lover of words, I look up to St. Bosco, a socially active Italian priest recognized for his extraordinary skills in writing and editing. His legacy continues today as I empower authors, businesses and bloggers to share their stories with the world.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/bac66726f92dc1db2c7886ee34b65517/noop.png?input=http%3A%2F%2Fi1.wp.com%2Fstboscoedits.com%2Fwp-content%2Fuploads%2F2016%2F02%2Fcropped-bosco-01.png%3Ffit%3D512%252C512"></article>]]></description>
+            <link>http://stboscoedits.com/</link>
+            <guid isPermaLink="false">59354be9-7705-474c-8bee-2f3715fb80f8</guid>
+            <pubDate>Sun, 10 Jul 2016 22:05:51 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

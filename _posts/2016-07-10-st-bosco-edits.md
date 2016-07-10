@@ -27,8 +27,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://stboscoedits.com/'
 title: St. Bosco Edits
-datePublished: '2016-07-10T22:05:51.000Z'
-dateModified: '2016-07-10T21:57:34.739Z'
+datePublished: '2016-07-10T22:05:52.724Z'
+dateModified: '2016-07-10T21:57:34.277Z'
 starred: false
 sourcePath: _posts/2016-07-10-st-bosco-edits.md
 inFeed: true
